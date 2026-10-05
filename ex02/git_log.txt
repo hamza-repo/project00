@@ -1,0 +1,5 @@
+commit 53a427bf83bfce1f7b19be949d0b6e866b0a94e3
+Author: Hamza almohammad <hamzasawalha@hotmail.com>
+Date:   Sat Oct 3 12:25:05 2026 -0400
+
+    this is the first commit

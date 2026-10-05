@@ -1,0 +1,40 @@
+.:
+total 20
+drwxr-xr-x 5 hamza hamza 4096 Oct  1 03:26 .
+drwxr-x--- 8 hamza hamza 4096 Oct  1 15:20 ..
+drwxr-xr-x 2 hamza hamza 4096 Oct  1 03:26 archives
+drwxr-xr-x 3 hamza hamza 4096 Oct  1 03:26 projects
+drwxr-xr-x 2 hamza hamza 4096 Oct  1 03:26 tools
+
+./archives:
+total 8
+drwxr-xr-x 2 hamza hamza 4096 Oct  1 03:26 .
+drwxr-xr-x 5 hamza hamza 4096 Oct  1 03:26 ..
+
+./projects:
+total 12
+drwxr-xr-x 3 hamza hamza 4096 Oct  1 03:26 .
+drwxr-xr-x 5 hamza hamza 4096 Oct  1 03:26 ..
+drwxr-xr-x 4 hamza hamza 4096 Oct  1 03:26 web
+
+./projects/web:
+total 16
+drwxr-xr-x 4 hamza hamza 4096 Oct  1 03:26 .
+drwxr-xr-x 3 hamza hamza 4096 Oct  1 03:26 ..
+drwxr-xr-x 2 hamza hamza 4096 Oct  1 03:26 backend
+drwxr-xr-x 2 hamza hamza 4096 Oct  1 03:26 frontend
+
+./projects/web/backend:
+total 8
+drwxr-xr-x 2 hamza hamza 4096 Oct  1 03:26 .
+drwxr-xr-x 4 hamza hamza 4096 Oct  1 03:26 ..
+
+./projects/web/frontend:
+total 8
+drwxr-xr-x 2 hamza hamza 4096 Oct  1 03:26 .
+drwxr-xr-x 4 hamza hamza 4096 Oct  1 03:26 ..
+
+./tools:
+total 8
+drwxr-xr-x 2 hamza hamza 4096 Oct  1 03:26 .
+drwxr-xr-x 5 hamza hamza 4096 Oct  1 03:26 ..
